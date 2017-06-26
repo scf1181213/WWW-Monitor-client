@@ -1,0 +1,23 @@
+body {
+	color: #000000;
+	
+	font-weight: 300;
+}
+table {
+	color:#000;
+width:450px;
+text-align:center;
+border:hidden;
+}
+tr {
+	height:50px;
+	}
+td{background:#7fdfaa;
+}
+input{
+	background-color:#91cfa1;
+	color: #fff;
+	width: 100px;
+	height: 35px;
+	font-size: 20px;
+	}
